@@ -23,4 +23,10 @@
 keytool binary
 *.sig binary
 *.srt binary
+*.sms binary
+*.ssv binary
+*.smc binary
+*.ssp binary
+*.sts binary
+
 
