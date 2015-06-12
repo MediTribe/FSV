@@ -28,5 +28,7 @@ keytool binary
 *.smc binary
 *.ssp binary
 *.sts binary
+*.pem binary
+
 
 
