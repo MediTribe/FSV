@@ -1,4 +1,4 @@
 *.adm
 ident.pdt
 traces-ssv.txt
-/.DS_Store
+.DS_Store
